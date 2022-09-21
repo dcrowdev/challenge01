@@ -1,3 +1,5 @@
+/* universal selector */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -93,14 +95,14 @@ main {
     color: #ffffff;
 }
 
-/* condensed classes with h3 */
+/* all h3 titles */
 
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* removed .benefit-lead/brand/image and condensed to one class */
+/* all images on benefits section */
 
 .benefits img {
     display: block;
@@ -123,7 +125,7 @@ h3 {
     max-height: 200px;
 }
 
-/* condensed h2 element styling */
+/* all h2 styles */
 
 h2 {
     margin-bottom: 20px;
