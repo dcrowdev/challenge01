@@ -1,6 +1,6 @@
 # Horiseon
 
-![alt text](assets/images/screenshot.PNG)
+![alt text](assets/images/screenshot2.PNG)
 
 Horiseon brings your business to a whole new level with SEO, Reputation Management, and Social Media Marketing.
 
